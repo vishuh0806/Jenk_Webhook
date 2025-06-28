@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StreamVerse</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">StreamVerse</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Movies</a>
+      <a href="#">TV Shows</a>
+      <a href="#">My List</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Unlimited Entertainment, One Platform</h1>
+    <p>Stream the latest movies and series anytime, anywhere.</p>
+    <button>Start Watching</button>
+  </section>
+
+  <section class="features">
+    <div class="card">
+      <h3>Trending Now</h3>
+      <p>Catch the buzz — most-watched shows this week.</p>
+    </div>
+    <div class="card">
+      <h3>New Releases</h3>
+      <p>Freshly dropped movies & series curated for you.</p>
+    </div>
+    <div class="card">
+      <h3>Watch Later</h3>
+      <p>Build your queue and watch on your schedule.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 StreamVerse. All rights reserved.</p>
+  </footer>
+</body>
+</html>
